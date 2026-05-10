@@ -26,8 +26,6 @@ Project ini dibuat untuk memenuhi tugas Business Intelligence dan Data Warehouse
 - Menyajikan hasil analisis dalam bentuk visualisasi data.
 - Mengelola dan mendokumentasikan project menggunakan GitHub.
 
-Project ini diharapkan dapat membantu memahami penerapan Business Intelligence dalam pengolahan data delivery untuk mendukung pengambilan keputusan bisnis secara lebih efektif.
-
 ---
 
 # 🔗 Important Links
