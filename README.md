@@ -14,7 +14,7 @@ Project ini mencakup proses:
 
 ---
 
-# 🔗 Important Links## 
+# 🔗 Important Links
 
 ### 📓 Google Colab Notebook: https://colab.research.google.com/drive/1AZC9EbT7TIynGbE3Dleai4UOA1eXClnG?usp=sharing
 
