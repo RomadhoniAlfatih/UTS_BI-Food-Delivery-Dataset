@@ -16,8 +16,6 @@ Project ini mencakup proses:
 
 # 🎯 Project Objectives
 
-Project ini dibuat untuk memenuhi tugas Business Intelligence dan Data Warehouse dengan memanfaatkan dataset food delivery dari Kaggle. Adapun tujuan dari project ini adalah:
-
 - Mengimplementasikan proses ETL (Extract, Transform, Load) pada dataset food delivery.
 - Melakukan data cleaning dan transformasi data menggunakan Python dan Google Colab.
 - Membangun Data Warehouse sederhana menggunakan MySQL.
