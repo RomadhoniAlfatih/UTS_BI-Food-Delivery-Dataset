@@ -14,10 +14,19 @@ Project ini mencakup proses:
 
 ---
 
+# 🔗 Important Links## 
+
+📓 Google Colab Notebook: https://colab.research.google.com/drive/1AZC9EbT7TIynGbE3Dleai4UOA1eXClnG?usp=sharing## 
+
+📂 Dataset Source: https://www.kaggle.com/datasets/vananhtong/food-delivery-dataset/data## 
+
+🌐 GitHub Repository: https://github.com/USERNAME/REPOSITORY-NAME
+
+---
+
 # 📂 Dataset
 Dataset yang digunakan berasal dari Kaggle:
 
-https://www.kaggle.com/datasets/vananhtong/food-delivery-dataset/data
 
 Dataset berisi informasi mengenai:
 - Driver delivery
