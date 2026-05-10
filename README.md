@@ -38,7 +38,6 @@ Dataset berisi informasi mengenai:
 | Python (Pandas) | Data Cleaning & ETL |
 | Google Colab | Data Processing |
 | MySQL | Data Warehouse |
-| Power BI | Dashboard Visualization |
 | GitHub | Version Control |
 
 ---
@@ -162,12 +161,6 @@ delivery-business-intelligence/
 │
 ├── sql/
 │   └── delivery_dw.sql
-│
-├── dashboard/
-│   └── powerbi_dashboard.png
-│
-├── laporan/
-│   └── laporan_project.pdf
 │
 └── README.md
 ```
