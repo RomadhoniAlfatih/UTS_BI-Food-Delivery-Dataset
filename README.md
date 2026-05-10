@@ -14,7 +14,7 @@ Project ini mencakup proses:
 
 ---
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Mengimplementasikan proses ETL (Extract, Transform, Load) pada dataset food delivery.
 - Melakukan data cleaning dan transformasi data menggunakan Python dan Google Colab.
@@ -26,7 +26,7 @@ Project ini mencakup proses:
 
 ---
 
-# 🔗 Important Links
+## 🔗 Important Links
 
 ### 📓 Notebook: https://colab.research.google.com/drive/1AZC9EbT7TIynGbE3Dleai4UOA1eXClnG?usp=sharing
 
@@ -36,7 +36,7 @@ Project ini mencakup proses:
 
 ---
 
-# 📂 Dataset
+## 📂 Dataset
 Dataset yang digunakan berasal dari Kaggle:
 
 
@@ -52,7 +52,7 @@ Dataset berisi informasi mengenai:
 
 ---
 
-# 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 | Tools | Fungsi |
 |---|---|
@@ -63,7 +63,7 @@ Dataset berisi informasi mengenai:
 
 ---
 
-# 🔄 ETL Process
+## 🔄 ETL Process
 
 ## 1. Extract
 Dataset diambil dari Kaggle dalam format CSV.
@@ -81,7 +81,7 @@ Data hasil cleaning dimasukkan ke dalam Data Warehouse menggunakan pendekatan **
 
 ---
 
-# ⭐ Data Warehouse Design
+## ⭐ Data Warehouse Design
 
 ## Fact Table
 ### fact_delivery
@@ -158,7 +158,7 @@ Driver dengan rating tinggi cenderung memiliki waktu pengiriman yang lebih stabi
 
 ---
 
-# 📈 Visualization
+## 📈 Visualization
 Visualisasi data dibuat menggunakan:
 - Bar Chart
 - Line Chart
@@ -169,7 +169,7 @@ Dashboard digunakan untuk membantu proses pengambilan keputusan bisnis.
 
 ---
 
-# 🗂 Project Structure
+## 🗂 Project Structure
 
 ```bash
 delivery-business-intelligence/
@@ -188,7 +188,7 @@ delivery-business-intelligence/
 
 ---
 
-# 💾 SQL Analysis Example
+## 💾 SQL Analysis Example
 
 ## Total Order per City
 
@@ -210,12 +210,12 @@ FROM delivery_data;
 
 ---
 
-# 🚀 Business Insight
+## 🚀 Business Insight
 Berdasarkan hasil analisis, faktor seperti cuaca dan kepadatan lalu lintas memiliki pengaruh terhadap efisiensi delivery. Selain itu, jam makan siang dan malam menjadi waktu dengan jumlah order tertinggi sehingga perusahaan perlu melakukan optimalisasi distribusi driver pada jam-jam tersebut.
 
 ---
 
-# 👥 Team Members
+## 👥 Team Members
 1. Dafa Firdaus
 2. Muhamamd Romadhoni Alfatih  
 3. Muhammad Rifqi Jastiartha
@@ -223,5 +223,5 @@ Berdasarkan hasil analisis, faktor seperti cuaca dan kepadatan lalu lintas memil
 
 ---
 
-# 📌 Conclusion
+## 📌 Conclusion
 Implementasi Business Intelligence dan Data Warehouse membantu proses analisis data delivery menjadi lebih terstruktur, cepat, dan informatif sehingga dapat mendukung pengambilan keputusan bisnis secara lebih efektif.
